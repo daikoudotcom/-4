@@ -1,11 +1,23 @@
+
+
 .title{
-    background-color:rgb(12, 183, 226);
-    width:px;
+    background-color:#dddddddd;
+    width:900px;
     margin-top:0px;
-    
+    margin-bottom: 0px;
     padding-top: 15px;
     padding-bottom:15px;
     font-family: "serif";
+    line-height: 1.8px;
 
 }
+.body{
+
+    background-color:#b3d0d7;
+    width:900px;
+    margin-top:0px;
+    padding-top:3px;
+    
+}
+
 
