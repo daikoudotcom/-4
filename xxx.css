@@ -1,6 +1,10 @@
-.title{
-    background-color:darkgrey;
-    background-size:20px;
-    font-family: "Tsukushi A Round Gothic";
 
+@media (max-width:600px){
+
+.title{
+    background-color:rgb(12, 183, 226);
+    background-position: top;
+    font-family: "serif";
+
+}
 }
