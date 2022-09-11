@@ -1,23 +1,51 @@
 
+.body{
+    width: 880px;
+    margin: 0 auto;
 
+
+  }
 .title{
     background-color:#dddddddd;
-    width:900px;
+    
     margin-top:0px;
     margin-bottom: 0px;
     padding-top: 15px;
     padding-bottom:15px;
     font-family: "serif";
     line-height: 1.8px;
+    width: 880px;
+    margin: 0 auto;
+    padding-left:10px;
+    padding-right: 10px;
 
 }
 .body{
 
     background-color:#b3d0d7;
-    width:900px;
-    margin-top:0px;
-    padding-top:3px;
     
+    margin-bottom: 0px;
+    margin-top:0px;
+
+    padding-top:3px;
+    padding-bottom:3px;
+    padding-left:10px;
+    padding-right: 10px;
 }
+.footer{
+    background-color:#696969;
+    
+    margin-top:0px;
+    margin-bottom:0px;
+    
+    
+    width: 880px;
+    margin: 0 auto;
+    padding-left:10px;
+    padding-right: 10px;padding-top:10px;
 
-
+}
+.searchask{
+    color: skyblue;
+  text-decoration: none;
+}
